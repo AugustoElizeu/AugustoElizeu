@@ -2,11 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CF700&center=true&vCenter=true&random=false&width=1000&lines=Meu+nome+%C3%A9+Augusto+Elizeu;Eu+moro+no+Brasil;Estou+estudando+java+para+back-end;Seja+bem-vindo+%3D+D" alt="Typing SVG" /></a>
 
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
    - 🌱 Estou atualmente estudando JAVA
    - 💰 Busco minha priveira vaga como programador
