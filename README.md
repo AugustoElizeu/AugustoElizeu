@@ -4,7 +4,9 @@
 
 <br>
 <br>
-
+<br>
+<br>
+<br>
    - 🌱 Estou atualmente estudando JAVA
    - 💰 Busco minha priveira vaga como programador
    - 😄 Pronouns: Ele/Dele
