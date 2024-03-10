@@ -12,8 +12,8 @@
 <br>
 <br>
 
-## Algumas coisas que eu sei/estou estudando
 ### Busco melhorar a cada dia  : ).
+## Algumas coisas que eu sei/estou estudando
 
 <br>
 <br>
