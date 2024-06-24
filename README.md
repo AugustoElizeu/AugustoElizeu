@@ -5,7 +5,7 @@
 <br>
 <br>
 
-   - 🌱 Estou atualmente estudando JAVA
+   - 🌱 Estou atualmente ficando Louco (Estudando Python)
    - 💰 Busco minha primeira vaga como programador
    - 😄 Pronouns: Ele/Dele
 
