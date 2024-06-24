@@ -14,6 +14,7 @@
 
 ### Busco melhorar a cada dia  : ).
 ## Algumas coisas que eu sei/estou estudando
+## É irônico eu criar um texto em inglês, porém o resto é em português
 
 <br>
 <br>
