@@ -6,7 +6,7 @@
 <br>
 
    - 🌱 Estou atualmente ficando Louco (Estudando Python)
-   - 💰 Busco minha primeira vaga como programador
+   - 💰 Busco criar algo pra explodir a internet 😎
    - 😄 Pronouns: Ele/Dele
 
 <br>
